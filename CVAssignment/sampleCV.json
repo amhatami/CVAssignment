@@ -1,0 +1,74 @@
+{
+    "name": "Amir Hatami",
+    "summary": "Teaching and Building Apps since 1999",
+    "knowledges": [
+                {
+                "id": 1,
+                "title": "iOS",
+                "description": "5 years of experience in developing IOS (Swift & Objective C) applications."
+                },
+                {
+                "id": 2,
+                "title": "Android",
+                "description": "1 years of experience in developing Android (Java & Kotlin)applications ."
+                },
+                {
+                "id": 3,
+                "title": "Agile",
+                "description": "6 years of experience in developing mobile application, web applications, enterprise applications, or complex software in an agile environment."
+                },
+                {
+                "id": 4,
+                "title": "UI/UX",
+                "description": "3 years of experience in UI/UX design & development principles."
+                },
+                {
+                "id": 5,
+                "title": "RESTful APIs",
+                "description": "Experienced publishing and consuming RESTful APIs."
+                }
+                ]
+    "experiences": [
+                {
+                "id": 1,
+                "companyName": "SAP",
+                "location": "Silicon Valley, California and Vancouver, BC",
+                "roleName": "iOS Developer",
+                "dateFrom": "March 2016",
+                "dateTo": "Present",
+                "responsibilities": "Utilized Swift, NodeJS, REST, Firebase, MongoDB, UI, UX, Plist, XML, JSON, CoreML,Core Data, Core Animation, Core Graphics.",
+                "achievements": "Self Visitor Sign-in for SAP, Palo Alto,Dublin and South San Francisco, California , USA",
+                "companyLogo": "https://"
+                },
+                "id": 2,
+                "companyName": "SAP",
+                "location": "Silicon Valley, California and Vancouver, BC",
+                "roleName": "Software Development Engineer",
+                "dateFrom": "March 2016",
+                "dateTo": "Present",
+                "responsibilities": "Utilized JAVA, PHP, CSS3, HTML5, XML, Java Script, AJAX, jQuery and backbone.js .",
+                "achievements": "Vulnerability Remediation Tracker Project for SAP, Vancouver, Headquartered Walldorf , Germany",
+                "companyLogo": "https://"
+                },
+                "id": 3,
+                "companyName": "UBC",
+                "location": "Vancouver, Canada",
+                "roleName": "Product Development manager",
+                "dateFrom": "Dec 2013",
+                "dateTo": "May 2014",
+                "responsibilities": "Use cases and scenarios, Identification of events, actors and use cases, Use case realisation, Entity relationship modelling (ERM) ,Cross-referencing functions to data entities via , Create/Read/Update/Delete tables ,Activity diagrams.",
+                "achievements": "Leadership in Energy & Environmental Design (LEED) Project,",
+                "companyLogo": "https://"
+                },
+                "id": 4,
+                "companyName": "Lightspeed GMI",
+                "location": "Vancouver, Canada",
+                "roleName": "Senior software Developer",
+                "dateFrom": "Aug 2013",
+                "dateTo": "January 2014",
+                "responsibilities": "PHP Coding and Troubleshooting also making feature files for Behat which is an open source behavior-driven development framework for PHP 5.3 and 5.4.",
+                "achievements": "Facebook survey",
+                "companyLogo": "https://"
+                }
+                ]
+}
