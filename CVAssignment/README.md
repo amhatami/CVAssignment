@@ -1,11 +1,12 @@
 # CVAssignment
-``` Level : Senior ```
+``` iOS CV viewer ```
 
 Assigmnet for Senior mobile engineer coding test :
 
 This coding test has been writen a native mobile application using the latest versions of Swift :
 
-- Use autolayout in code (No Stroyboard)
+- Use autolayout in code (Programmatically)
+- Not usage from StackView to handle autolayout
 - Use Xcode 10.1 or SWIFT_VERSION = 4.2
 - Do not use external libraries
 
@@ -27,10 +28,7 @@ the data from your app (or any alternative).
 
 ## Atention
 
-Project Autolayout all made by code and there is no  ```StoryBoard``` inside the project 
-
-##### For additionnal info, please watch the video : 
-[![Real0time Face Tracking](https://img.youtube.com/vi/../hqdefault.jpg)](https://youtu.be/)
+Project Autolayout all made by code and there is no  ```Xcode interface usage``` inside the project 
 
 ## License
 
