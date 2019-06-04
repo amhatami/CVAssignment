@@ -85,10 +85,24 @@ class DetailsViewController: UIViewController {
             OutputDetails = cvInfo.summary
         case "knowledge":
             OutputTitle = "Topics of knowledge / technical : "
-            OutputDetails = cvInfo.knowledges[0].description ?? "NA"
+            let knowledges = cvInfo.knowledges
+            for knowledge in knowledges {
+                OutputDetails += "+" + (knowledge.description ?? "") + "\n"
+                OutputDetails += "\n"
+            }
         case "experience":
             OutputTitle = "Past experience : "
-            OutputDetails = cvInfo.experiences[0].roleName ?? "NA"
+            let experiences = cvInfo.experiences
+            for experience in experiences {
+                OutputDetails += experience.roleName ?? ""
+                OutputDetails += "+" + (experience.roleName ?? "") + "\n"
+                OutputDetails += "     " + (experience.companyName ?? "") + "\n"
+//                OutputDetails += "     " + (experience.dateFrom ?? "") + " - " + (experience.dateTo ?? "") + "\n"
+                OutputDetails += "     " + (experience.location ?? "") + "\n"
+                OutputDetails += "     " + (experience.responsibilities ?? "") + "\n"
+                OutputDetails += "     " + (experience.achievements ?? "") + "\n"
+                OutputDetails += "\n"
+            }
         default:
             OutputTitle = "NA"
             OutputTitle = "NA"
