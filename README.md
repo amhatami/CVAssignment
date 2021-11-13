@@ -65,19 +65,15 @@ The project currently does the following things.
 - Feature 2
 - Feature 3
 
-It's in a free tier IBM Cloud Kubernetes cluster. In the future we plan to run on Red Hat OpenShift, for example.
-
-See below for our proposed schedule on next steps after Call for Code 2021 submission.
-
 ![Roadmap](./docs/images/time-line.png)
 
 ## Getting started
 
 In this section you add the instructions to run your project on your local machine for development and testing purposes. You can also add instructions on how to deploy the project in production.
 
-- [sample-react-app](./sample-react-app/)
-- [sample-angular-app](./sample-angular-app/)
-- [Explore other projects](https://github.com/upkarlidder/ibmhacks)
+- [sample-todo](./docs/)
+- [sample-todo](./docs/)
+- [sample-todo](./docs/)
 
 
 ## Package Dependencies
@@ -88,11 +84,11 @@ In this section you add the instructions to run your project on your local machi
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md](./docs/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags).
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository]().
 
 ## Developers
 
