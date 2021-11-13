@@ -1,6 +1,6 @@
 # iOS Application Vision
 
-[![Website](https://img.shields.io/badge/View-Website-blue)](https://)
+[![Website](https://img.shields.io/badge/View-Website-blue)](./docs/View-Website-blue.md)
 
 TODO add A brief info of iOS application Vision project.
 
