@@ -1,6 +1,6 @@
 # iOS Application Vision
 
-[![Swift 5.1](./docs/images/swift5-1.svg)](https://www.swift.org/)
+[![Swift 5.1](./docs/images/swift5-1.svg)](https://www.swift.org/) [![Xerris](./docs/images/xerris.svg)](https://www.xerris.com/) [![WestJet](./docs/images/westjet.svg)](https://www.westjet.com/en-ca)
 
 TODO add A brief info of iOS application Vision project.
 
