@@ -14,7 +14,6 @@ _Read this in other languages: [English](README.md)._
     - [What's the problem?](#whats-the-problem)
     - [How can technology help?](#how-can-technology-help)
     - [The idea](#the-idea)
-  - [Demo video](#demo-video)
   - [The architecture](#the-architecture)
   - [Details description](#details-description)
   - [Project roadmap](#project-roadmap)
@@ -39,10 +38,6 @@ TODO add iPad can help.
 ### The idea
 
 It's imperative that learning and creating can continue when educational institutions have to shift the way they teach in times of crises, such as the COVID-19 pandemic. Providing a set of open source tools, backed by IBM Cloud and Watson Services, will enable educators to more easily make content available for their students.
-
-## Demo video
-
-[![Watch the video](./docs/images/video-image.png)](https://youtu.be)
 
 ## The architecture
 
