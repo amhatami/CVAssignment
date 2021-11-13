@@ -19,11 +19,10 @@ _Read this in other languages: [English](README.md)._
   - [Details description](#details-description)
   - [Project roadmap](#project-roadmap)
   - [Getting started](#getting-started)
-  - [Live demo](#live-demo)
-  - [Built with](#built-with)
+  - [Package Dependencies](#package-dependencies)
   - [Contributing](#contributing)
   - [Versioning](#versioning)
-  - [Authors](#authors)
+  - [Developers](#developers)
   - [License](#license)
   - [Acknowledgments](#acknowledgments)
 
@@ -70,7 +69,7 @@ It's in a free tier IBM Cloud Kubernetes cluster. In the future we plan to run o
 
 See below for our proposed schedule on next steps after Call for Code 2021 submission.
 
-![Roadmap](./docs/images/time-line.jpg)
+![Roadmap](./docs/images/time-line.png)
 
 ## Getting started
 
@@ -80,20 +79,12 @@ In this section you add the instructions to run your project on your local machi
 - [sample-angular-app](./sample-angular-app/)
 - [Explore other projects](https://github.com/upkarlidder/ibmhacks)
 
-## Live demo
 
-You can find a running system to test at [callforcode.mybluemix.net](http://callforcode.mybluemix.net/).
+## Package Dependencies
 
-See the "long description" field in our submission (not in this repo) for the log-in credentials.
-
-## Built with
-
-- [IBM Cloudant](https://cloud.ibm.com/catalog?search=cloudant#search_results) - The NoSQL database used
-- [IBM Cloud Functions](https://cloud.ibm.com/catalog?search=cloud%20functions#search_results) - The compute platform for handing logic
-- [IBM API Connect](https://cloud.ibm.com/catalog?search=api%20connect#search_results) - The web framework used
-- [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-- [Maven](https://maven.apache.org/) - Dependency management
-- [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+- [realm.io](https://realm.io) - The Realm’s mobile database
+- [SnapshotTesting](https://github.com/pointfreeco/swift-snapshot-testing) - The SnapshotTesting module
+- [ViewInspector](https://github.com/nalexn/ViewInspector) - The ViewInspector library for unit testing SwiftUI views
 
 ## Contributing
 
@@ -103,17 +94,18 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduc
 
 We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags).
 
-## Authors
+## Developers
 
-<a href="https://github.com/Call-for-Code/Project-Sample/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=Call-for-Code/Project-Sample" />
+<a href="./docs/developers.md">
+  <img src="./docs/images/developers.png" />
 </a>
 
-- **Amir Hatami** - _Initial work_ - [amhatami](https://github.com/amhatami)
+- **Amir Hatami** - _Initial work_ - [amir-hatami](https://www.linkedin.com/in/amir-hatami-174aba57/)
+- **Tom Schulz** - _Initial work_ - [tom-schulz](https://www.linkedin.com/in/tom-schulz-2158229/)
 
 ## License
 
-This project is licensed under the Apache 2 License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under TODO License - see the [LICENSE](./docs/LICENSE.md) file for details.
 
 ## Acknowledgments
 
