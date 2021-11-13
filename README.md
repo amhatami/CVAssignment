@@ -88,7 +88,7 @@ Please read [CONTRIBUTING.md](./docs/CONTRIBUTING.md) for details on our code of
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository]().
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](./README.md).
 
 ## Developers
 
