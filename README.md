@@ -1,4 +1,4 @@
-# iOS Application Vision
+# iOS Application - Vision
 
 [![Swift 5.1](./docs/images/swift5-1.svg)](https://www.swift.org/) [![Xerris](./docs/images/xerris.svg)](https://www.xerris.com/) [![WestJet](./docs/images/westjet.svg)](https://www.westjet.com/en-ca)
 
@@ -8,7 +8,7 @@ _Read this in other languages: [English](README.md)._
 
 ## Contents
 
-- [iOS Application Vision](#ios-application-vision)
+- [iOS Application - Vision](#ios-application---vision)
   - [Contents](#contents)
   - [Short description](#short-description)
     - [What's the problem?](#whats-the-problem)
@@ -73,6 +73,9 @@ In this section you add the instructions to run your project on your local machi
 
 ## Package Dependencies
 
+Integrate package dependencies to share code between projects, or leverage code from other developers.
+
+- [Package Dependencies](https://developer.apple.com/documentation/swift_packages/adding_package_dependencies_to_your_app) - Adding Package Dependencies to Your App
 - [realm.io](https://realm.io) - The Realm’s mobile database
 - [SnapshotTesting](https://github.com/pointfreeco/swift-snapshot-testing) - The SnapshotTesting module
 - [ViewInspector](https://github.com/nalexn/ViewInspector) - The ViewInspector library for unit testing SwiftUI views
@@ -91,8 +94,8 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
   <img src="./docs/images/developers.png" />
 </a>
 
-- **Amir Hatami** - _Initial work_ - [amir-hatami](https://www.linkedin.com/in/amir-hatami-174aba57/)
-- **Tom Schulz** - _Initial work_ - [tom-schulz](https://www.linkedin.com/in/tom-schulz-2158229/)
+- **Tom Schulz** - _Sr. Software Development Engineer - Mobile_ - [tom-schulz](https://www.linkedin.com/in/tom-schulz-2158229/)
+- **Amir Hatami** - _Sr. Software Development Engineer - Mobile_ - [amir-hatami](https://www.linkedin.com/in/amir-hatami-174aba57/)
 
 ## License
 
