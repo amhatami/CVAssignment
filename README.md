@@ -41,12 +41,12 @@ TODO add the idea.
 
 ## The architecture
 
-![Video transcription/translation app](./docs/images/MVVM-Architecture-For-iOS.jpg)
+![MVVM architecture](./docs/images/MVVM-Architecture-For-iOS.jpg)
 
-1. The user navigates to the site and uploads a video file.
-2. Watson Speech to Text processes the audio and extracts the text.
-3. Watson Translation (optionally) can translate the text to the desired language.
-4. The app stores the translated text as a document within Object Storage.
+**The separate code layers of MVVM are:**
+- **Model:** This layer is responsible for the abstraction of the data sources. Model and ViewModel work together to get and save the data.
+- **View:** The purpose of this layer is to inform the ViewModel about the user’s action. This layer observes the ViewModel and does not contain any kind of application logic.
+- **ViewModel:** It exposes those data streams which are relevant to the View. Moreover, it servers as a link between the Model and the View.
 
 ## The folder structurs
 
@@ -70,7 +70,7 @@ The project currently does the following features.
 - Feature 2
 - Feature 3
 
-![Roadmap](./docs/images/time-line.png)
+![Roadmap](./docs/images/RoadMap.png)
 
 ## Getting started
 
@@ -89,7 +89,7 @@ Integrate package dependencies to share code between projects, or leverage code 
 - [SnapshotTesting](https://github.com/pointfreeco/swift-snapshot-testing) - The SnapshotTesting module
 - [ViewInspector](https://github.com/nalexn/ViewInspector) - The ViewInspector library for unit testing SwiftUI views
 
-![Roadmap](./docs/images/RoadMap.png)
+![Roadmap](./docs/images/SnapshotTestingProcess.png)
 
 ## Contributing
 
