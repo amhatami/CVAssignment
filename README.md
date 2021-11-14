@@ -89,7 +89,7 @@ Integrate package dependencies to share code between projects, or leverage code 
 - [SnapshotTesting](https://github.com/pointfreeco/swift-snapshot-testing) - The SnapshotTesting module
 - [ViewInspector](https://github.com/nalexn/ViewInspector) - The ViewInspector library for unit testing SwiftUI views
 
-![Roadmap](./docs/images/SnapshotTestingProcess.png)
+![Roadmap](./docs/images/RoadMap.png)
 
 ## Contributing
 
