@@ -41,7 +41,7 @@ TODO add the idea.
 
 ## The architecture
 
-![Video transcription/translation app](./docs/images/architecture-diagram.png)
+![Video transcription/translation app](./docs/images/MVVM-Architecture-For-iOS.jpg)
 
 1. The user navigates to the site and uploads a video file.
 2. Watson Speech to Text processes the audio and extracts the text.
@@ -80,15 +80,16 @@ In this section we will add the instructions to run this project on local device
 - [sample-todo](./docs/)
 - [sample-todo](./docs/)
 
-
 ## Package Dependencies
 
 Integrate package dependencies to share code between projects, or leverage code from other developers.
 
 - [Package Dependencies](https://developer.apple.com/documentation/swift_packages/adding_package_dependencies_to_your_app) - Adding Package Dependencies to Your App
-- [realm.io](https://realm.io) - The Realm’s mobile database
+- [Realm.io](https://realm.io) - The Realm’s mobile database
 - [SnapshotTesting](https://github.com/pointfreeco/swift-snapshot-testing) - The SnapshotTesting module
 - [ViewInspector](https://github.com/nalexn/ViewInspector) - The ViewInspector library for unit testing SwiftUI views
+
+![Roadmap](./docs/images/SnapshotTestingProcess.png)
 
 ## Contributing
 
