@@ -33,11 +33,11 @@ TODO add problem overview.
 
 ### How can technology help?
 
-TODO add iPad can help.
+TODO add how iPad can help.
 
 ### The idea
 
-It's imperative that learning and creating can continue when educational institutions have to shift the way they teach in times of crises, such as the COVID-19 pandemic. Providing a set of open source tools, backed by IBM Cloud and Watson Services, will enable educators to more easily make content available for their students.
+TODO add the idea.
 
 ## The architecture
 
@@ -48,13 +48,23 @@ It's imperative that learning and creating can continue when educational institu
 3. Watson Translation (optionally) can translate the text to the desired language.
 4. The app stores the translated text as a document within Object Storage.
 
+## The folder structurs
+
+Organizing Source Files using groups, annotations, and Quick Help to improve the project’s maintainability.
+
+![Project Directories](./docs/images/VisionDirectories.png)
+
 ## Details description
+
+1. The user navigates to the app and sign in.
+2. The user can select a flight from flights list.
+3. ...
 
 [More detail is available here](./docs/DESCRIPTION.md)
 
 ## Project roadmap
 
-The project currently does the following things.
+The project currently does the following features.
 
 - Feature 1
 - Feature 2
@@ -64,7 +74,7 @@ The project currently does the following things.
 
 ## Getting started
 
-In this section you add the instructions to run your project on your local machine for development and testing purposes. You can also add instructions on how to deploy the project in production.
+In this section we will add the instructions to run this project on local device for development and testing purposes. we can also add instructions on how to deploy the project in production.
 
 - [sample-todo](./docs/)
 - [sample-todo](./docs/)
