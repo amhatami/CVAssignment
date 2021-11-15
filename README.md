@@ -70,7 +70,7 @@ The project currently does the following features.
 - Feature 2
 - Feature 3
 
-![Roadmap](./docs/images/RoadMap.png)
+![Roadmap](./docs/images/SnapshotTestingProcess.png)
 
 ## Getting started
 
